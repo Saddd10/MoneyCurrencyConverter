@@ -1,0 +1,15 @@
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\bin\Debug\netcoreapp3.1\MoneyCurrency.exe
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\bin\Debug\netcoreapp3.1\MoneyCurrency.deps.json
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\bin\Debug\netcoreapp3.1\MoneyCurrency.runtimeconfig.json
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\bin\Debug\netcoreapp3.1\MoneyCurrency.runtimeconfig.dev.json
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\bin\Debug\netcoreapp3.1\MoneyCurrency.dll
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\bin\Debug\netcoreapp3.1\MoneyCurrency.pdb
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.csprojAssemblyReference.cache
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.Form1.resources
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.csproj.GenerateResource.cache
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.AssemblyInfoInputs.cache
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.AssemblyInfo.cs
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.dll
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.pdb
+D:\KULIAH\Semester 4\PBKK\Tugas 2\MoneyCurrency\MoneyCurrency\obj\Debug\netcoreapp3.1\MoneyCurrency.genruntimeconfig.cache
